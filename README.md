@@ -12,6 +12,8 @@ $ apt install python2
 
 $pip2 install requests
 
+$git clone https://github.com/D4N15HG4NU/spam-grab
+
 HOW TO RUN:
 
 $ cd spam-grab
