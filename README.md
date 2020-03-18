@@ -4,11 +4,11 @@ GUNA TOOL INI DENGAN SEBAIKNYA
 
 HOW TO INSTALL FOR TERMUX:
 
-$ apt upgrade && apt update
+$ pkg upgrade && pkg update
 
-$ apt install git 
+$ pkg install git 
 
-$ apt install python2
+$ pkg install python2
 
 $pip2 install requests
 
